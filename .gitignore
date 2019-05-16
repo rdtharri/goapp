@@ -1,0 +1,7 @@
+# Ignore any compiled windows executables
+*.exe
+
+# Ignore gotron-related things
+.gotron/
+.gotron-builder/
+dist/
